@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="8" name="ZohoUploader">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1429186762276</CreatedAt>
+    <CreatedBy>i.vatsenko@yahoo.com</CreatedBy>
+    <DisplayName>ZohoUploader</DisplayName>
+    <LastModifiedAt>1429189421187</LastModifiedAt>
+    <LastModifiedBy>i.vatsenko@yahoo.com</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>node://form-data.zip</Resource>
+        <Resource>node://server.js</Resource>
+    </Resources>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>false</validate>
+</APIProxy>
